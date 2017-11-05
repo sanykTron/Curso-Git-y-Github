@@ -1,1 +1,2 @@
-# Curso-Git-y-Github
+# Curso Git y Github
+¡Bienvenido al Curso de Git + Github! en este curso aprenderás el manejo de las funcionalidades básicas de Git para que puedas crear, mantener y colaborar en proyectos Open Source.
